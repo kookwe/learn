@@ -24,17 +24,19 @@ Syntax highlighted code block
 **Bold** and _Italic_ and `Code` text
 
 [Link](url) and ![Image](src)
-```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-1、请简单介绍一下你所了解的电商行业，常见商业模式，技术特点
+1. 请简单介绍一下你所了解的电商行业，常见商业模式，技术特点
 中国的电子商务快速发展，交易额连创新高，电子商务在各领域的应用不断拓 
 展和深化、相关服务业蓬勃发展、支撑体系不断健全完善、创新的动力和能力 不断增强。 
 电子商务正在与实体经济深度融合，进入规模性发展阶段，对经济社会生活的影响不断增大， 
 正成为我国经济发展的新引擎。
-2、你之前做过电商系统吗？有哪些平台?
+2. 你之前做过电商系统吗？有哪些平台?
 优乐选网上商城
 主要分为网站前台、运营商后台、商家管理后台三个子系统
+```
+
+For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+
 
 3、什么是SOA？
 SOA 是 Service-Oriented Architecture 的首字母简称，它是一种支持面向服务的架构样式。 
